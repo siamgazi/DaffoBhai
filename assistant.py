@@ -93,10 +93,10 @@ STATE_COLORS_BGR = {
     SPEAKING:   (220,  0, 200),
 }
 STATE_LABELS = {
-    IDLE:       "Look at me! (~50cm away)",
+    IDLE:       "Look at me motherjaat! (~50cm away)",
     ATTENTIVE:  "Hi! Speak to me :)",
     LISTENING:  "Listening...",
-    PROCESSING: "Let me think...",
+    PROCESSING: "khara vaiba loi...",
     SPEAKING:   "...",
 }
 
